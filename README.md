@@ -1,2 +1,2 @@
-# cv_utility
+# CV Utilities
 Utility functions for Computer Vision tasks
